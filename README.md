@@ -20,3 +20,5 @@ Ce travail a été rendu possible grace à ma professeure FARSIROTOU Evangelia d
 <h2>Fait le 1/26/2026 par GENTI Edwin</h2>
 <h2>Sources et Références :</h2>
 - <b>FARSIROTOU Evangelia</b>
+<br><br>
+- <b>English version of this project:https://github.com/EdwinGenti/River_Regulation_ArcGISPro_Complex</b>
